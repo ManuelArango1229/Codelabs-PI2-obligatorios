@@ -1,4 +1,4 @@
-# 📘 Repositorio de Codelabs — Inteligencia Artificial / Visión por Computador
+# 📘 Repositorio de Codelabs Obligatorios
 
 ## Autor: Juan Manuel Arango Rodas
 

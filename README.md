@@ -1,4 +1,4 @@
-# 📘 Repositorio de Codelabs Obligatorios
+# Repositorio de Codelabs Obligatorios
 
 ## Autor: Juan Manuel Arango Rodas
 

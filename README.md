@@ -8,7 +8,7 @@ Este repositorio contiene las evidencias de los codelabs desarrollados en la asi
 Cada carpeta incluye al menos un pantallazo que demuestra la ejecución correspondiente.
 
 ```
-📂 Estructura del Repositorio
+Estructura del Repositorio
 /
 ├── codelab1/
 │   └── evidencia.png
@@ -27,9 +27,3 @@ Cada carpeta incluye al menos un pantallazo que demuestra la ejecución correspo
 └── README.md
 
 ```
-
-### ✔️ Notas Generales
-
-Las carpetas están organizadas según los codelabs solicitados por el docente.
-
-Cada una contiene al menos una evidencia visual (pantallazo) del funcionamiento.
